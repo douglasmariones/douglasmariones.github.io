@@ -1,16 +1,24 @@
-## Hi there 👋
+# Douglas Mariones Portfolio
 
-<!--
-**douglasmariones/douglasmariones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional portfolio focused on Product Ownership, Technology Project Management, Digital Transformation and AI-assisted product development.
 
-Here are some ideas to get you started:
+## Public URL
+https://douglasmariones.github.io/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Structure
+- `/` Portfolio home
+- `/work/performance-intelligence/`
+- `/work/learning-academy/`
+- `/work/learning-enablement/`
+- `/cv/` Role-specific resumes
+- `/assets/` Social preview and brand assets
+
+## GitHub Pages
+Repository should be named exactly `douglasmariones.github.io`.
+
+Recommended Pages configuration:
+- Source: Deploy from a branch
+- Branch: `main`
+- Folder: `/(root)`
+
+The `.nojekyll` file is intentional.
