@@ -1,24 +1,15 @@
-# Douglas Mariones Portfolio
+# Douglas Mariones Portfolio V7 Premium
 
-Professional portfolio focused on Product Ownership, Technology Project Management, Digital Transformation and AI-assisted product development.
+A fully redesigned premium portfolio build focused on visual storytelling, interaction and product reasoning.
 
-## Public URL
-https://douglasmariones.github.io/
+## Premium changes
+- Immersive dark hero and cinematic section transitions
+- Interactive recruiter lens on home
+- Premium case cards with live UI previews and subtle 3D tilt
+- Performance Intelligence executive control tower, hover tooltips, workstream drill-down, story mode and decision reasoning
+- Learning Academy mastery engine, interactive levels and practice lab
+- Learning Enablement interactive journey architecture, product search, support decision tree and author walkthrough placeholders
+- Responsive layout and reduced-motion accessibility
+- No external JS dependency required
 
-## Structure
-- `/` Portfolio home
-- `/work/performance-intelligence/`
-- `/work/learning-academy/`
-- `/work/learning-enablement/`
-- `/cv/` Role-specific resumes
-- `/assets/` Social preview and brand assets
-
-## GitHub Pages
-Repository should be named exactly `douglasmariones.github.io`.
-
-Recommended Pages configuration:
-- Source: Deploy from a branch
-- Branch: `main`
-- Folder: `/(root)`
-
-The `.nojekyll` file is intentional.
+Public case data is synthetic/sanitized.
